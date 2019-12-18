@@ -1,0 +1,22 @@
+{"ac001": 
+	 {"Balance":"500000",
+      "Currency":"USD"
+	 },
+"ac002": 
+	 {"Balance":"1000000",
+      "Currency":"USD"
+	 },
+"ac003": 
+	 {"Balance":"50000",
+      "Currency":"USD"
+	 },
+"ac004": 
+	 {"Balance":"5000000",
+      "Currency":"USD"
+	 },
+"ac005": 
+	 {"Balance":"900000",
+      "Currency":"USD"
+	 }
+
+}

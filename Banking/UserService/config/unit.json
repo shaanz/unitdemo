@@ -1,0 +1,15 @@
+{
+    "listeners": {
+        "*:8080": {
+            "pass": "applications/user_service"
+        }
+    },
+
+    "applications": {
+        "user_service": {
+            "type": "python 3",
+            "path": "/app",
+            "module": "user_service"
+        }
+    }
+}

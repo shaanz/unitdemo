@@ -1,0 +1,15 @@
+{
+    "listeners": {
+        "*:8080": {
+            "pass": "applications/user_report"
+        }
+    },
+
+    "applications": {
+        "user_report": {
+            "type": "python 3",
+            "path": "/app",
+            "module": "user_report"
+        }
+    }
+}
